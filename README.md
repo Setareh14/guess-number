@@ -1,1 +1,1 @@
-progec 1
+progec 1,2,3,4
